@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<title>Personal site of one android dev</title>
-		<script language="JavaScript" src="assets/js/gen_validatorv31.js" type="text/javascript"></script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120237072-1"></script>
 		<script>
@@ -38,7 +37,7 @@
 						</header>
 						<hr />
 						<h2>Write me!</h2>
-						<form method="post" name="myemailform" action="sending-email.php">
+						<form method="post" name="myemailform"  id="myemailform" action="assets/php/sending-email.php">
 							<div class="field">
 								<input type="text" name="name" id="name" placeholder="Name" />
 							</div>
@@ -49,18 +48,9 @@
 								<textarea name="message" id="message" placeholder="Message" rows="4"></textarea>
 							</div>
 							<ul class="actions">
-								<li><input type="submit" class="button" name="submit" value="Fly away!"></li>
+								<li><input type="submit" class="button" name="submit" id="submit" value="Fly away!"></li>
 							</ul>
 						</form>
-						<script language="JavaScript">
-							// Code for validating the form
-							// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
-							// for details
-							var frmvalidator  = new Validator("myemailform");
-							frmvalidator.addValidation("name","req","Please provide your name");
-							frmvalidator.addValidation("email","req","Please provide your email");
-							frmvalidator.addValidation("email","email","Please enter a valid email address");
-						</script>
 						<hr />
 						</header>
 						<footer>
