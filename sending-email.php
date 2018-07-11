@@ -26,7 +26,7 @@ $email_subject = "New Form submission";
 $email_body = "You have received a new message from the user $name.\n".
     "Here is the message:\n $message".
     
-$to = "contact@clappingmonkey.info";//<== update the email address
+$to = "contact@clappingmonkey.info";//<== update the email address Yep
 $headers = "From: $email_from \r\n";
 $headers .= "Reply-To: $visitor_email \r\n";
 //Send the email!
