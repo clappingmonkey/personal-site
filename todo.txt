@@ -1,4 +1,0 @@
-add a static blog
-change the photo
-redesign the whole site
-link the blog into the footer
