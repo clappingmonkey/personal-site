@@ -1,11 +1,39 @@
 - name: HTML5/CSS3
-  percentage: 90
+  percentage: 70
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: java
+  percentage: 70
+  color: secondary
 
-- name: Python
+- name: OOP Principles
+  percentage: 40
+  color: success
+
+- name: MySQL
+  percentage: 35
+  color: warning
+
+- name: XML
+  percentage: 60
+  color: info
+
+- name: bash
+  percentage: 40
+  color: light
+
+- name: GIT
   percentage: 70
   color: dark
+
+- name: Linux
+  percentage: 70
+  color: 
+
+- name: OOP Principles
+  percentage: 40
+  color: 
+
+- name: yaml
+  percentage: 30
+  color: 
