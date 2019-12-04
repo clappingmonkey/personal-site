@@ -6,10 +6,6 @@
   percentage: 70
   color: success
 
-- name: Inkscape
-  percentage: 65
-  color: danger
-
 - name: Audacity
   percentage: 60
   color: danger

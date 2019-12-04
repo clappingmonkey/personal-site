@@ -28,8 +28,8 @@
 
 - name: MySQL
   percentage: 35
-  color: info
+  color: dark
 
 - name: yaml
   percentage: 30
-  color: info
+  color: dark
