@@ -1,4 +1,4 @@
-** This is the project for my pesonal site. 
+## This is the project for my pesonal site. 
 
 The site is maded with Jekyll based on the theme PersonalYOU that I moded and it's hosted on this repo and netlify.
 
