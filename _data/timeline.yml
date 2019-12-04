@@ -1,13 +1,10 @@
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Telecommunications Engineering Intern, VIVACOM
+  from: May 2009
+  to: June 2009
+  description: Got the chance to learn about infrastructure in the biggest telecommunication
+               company in Bulgaria. 
 
-- title: Student, University of Ruse CS
+- title: Student of CS, University of Ruse
   from: 2009
   to: 2013
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -16,9 +13,18 @@
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
+- title: Web Development Intern, BTV Media Group
+  from: June 2011
+  to: October 2011
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Introduction to Linux, Linux Foundation
+  from: 2013
+  to: 2013
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
