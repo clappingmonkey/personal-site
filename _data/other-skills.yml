@@ -1,27 +1,27 @@
-- name: Audacity
-  percentage: 60
-  color: info
-
-- name: Inkscape
-  percentage: 50
-  color: success
+- name: Sublime
+  percentage: 80
+  color: 
 
 - name: GIMP
   percentage: 70
   color: danger
 
-- name: Sublime
-  percentage: 80
-  color: warning
+- name: Inkscape
+  percentage: 65
+  color: success
+
+- name: Audacity
+  percentage: 60
+  color: success
 
 - name: Android Studio
   percentage: 55
-  color: success
-
-- name: Inkscape
-  percentage: 65
-  color: 
+  color: warning
 
 - name: Material Design
-  percentage: 60
-  color: dark
+  percentage: 50
+  color: warning
+
+- name: Inkscape
+  percentage: 50
+  color: warning

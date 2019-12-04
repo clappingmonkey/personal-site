@@ -1,39 +1,35 @@
 - name: HTML5/CSS3
   percentage: 70
-  color: success
+  color: 
 
 - name: java
   percentage: 70
-  color: success
-
-- name: OOP Principles
-  percentage: 40
-  color: success
-
-- name: MySQL
-  percentage: 35
-  color: warning
-
-- name: XML
-  percentage: 60
-  color: info
-
-- name: bash
-  percentage: 40
   color: 
 
 - name: GIT
   percentage: 70
-  color: dark
+  color: 
 
 - name: Linux
   percentage: 70
   color: 
 
-- name: OOP Principles
+- name: XML
+  percentage: 60
+  color: success
+
+- name: bash
   percentage: 40
-  color: 
+  color: warning
+
+- name: OOP Standarts
+  percentage: 40
+  color: warning
+
+- name: MySQL
+  percentage: 35
+  color: dark
 
 - name: yaml
   percentage: 30
-  color: 
+  color: secondary
