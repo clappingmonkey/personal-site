@@ -4,15 +4,15 @@
 
 - name: GIMP
   percentage: 70
-  color: danger
+  color: success
 
 - name: Inkscape
   percentage: 65
-  color: success
+  color: danger
 
 - name: Audacity
   percentage: 60
-  color: success
+  color: danger
 
 - name: Android Studio
   percentage: 55

@@ -1,22 +1,22 @@
 - name: HTML5/CSS3
-  percentage: 70
+  percentage: 80
+  color: 
+
+- name: GIT
+  percentage: 80
+  color: 
+
+- name: Linux
+  percentage: 80
   color: 
 
 - name: java
   percentage: 70
-  color: 
-
-- name: GIT
-  percentage: 70
-  color: 
-
-- name: Linux
-  percentage: 70
-  color: 
+  color: success
 
 - name: XML
   percentage: 60
-  color: success
+  color: danger
 
 - name: bash
   percentage: 40
@@ -32,4 +32,4 @@
 
 - name: yaml
   percentage: 30
-  color: secondary
+  color: dark
