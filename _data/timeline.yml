@@ -1,12 +1,33 @@
-- title: Telecommunications Engineering Intern, VIVACOM
-  from: May 2009
-  to: June 2009
-  description: Got the chance to learn about infrastructure in the biggest telecommunication
-               company in Bulgaria. 
+- title: Android Developer, Freelance
+  from: February 2016
+  to: January 2017
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Student of CS, University of Ruse
-  from: 2009
-  to: 2013
+- title: Git and Github collaboration, Udacity Inc.
+  from: October 2013
+  to: Present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: System Administrator and Software Support, Freelance
+  from: October 2013
+  to: Present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Introduction to Linux Course, Linux Foundation
+  from: July 2013
+  to: September 2013
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
@@ -22,11 +43,17 @@
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Introduction to Linux, Linux Foundation
-  from: 2013
+- title: Student of CS, University of Ruse
+  from: 2009
   to: 2013
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Telecommunications Engineering Intern, VIVACOM
+  from: May 2009
+  to: June 2009
+  description: Got the chance to learn about the main infrastructure used in voice telecommunication
+               in the biggest telecommunication company in Bulgaria. 
