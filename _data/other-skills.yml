@@ -1,23 +1,7 @@
-- name: Sublime
-  percentage: 80
-  color: 
+- name: Adobe Photoshop
+  percentage: 95
+  color: info
 
-- name: GIMP
-  percentage: 70
+- name: Adobe Illustrator
+  percentage: 90
   color: success
-
-- name: Audacity
-  percentage: 60
-  color: danger
-
-- name: Android Studio
-  percentage: 55
-  color: warning
-
-- name: Material Design
-  percentage: 50
-  color: warning
-
-- name: Inkscape
-  percentage: 50
-  color: warning

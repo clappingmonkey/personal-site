@@ -61,11 +61,6 @@ stackoverflow:
   icon  : fab fa-stack-overflow
   color : f48024
 
-telegram:
-  url   : https://t.me/
-  icon  : fab fa-telegram
-  color : 0088cc
-
 tumblr:
   url   : https://
   icon  : fab fa-tumblr
