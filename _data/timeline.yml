@@ -40,14 +40,11 @@
 - title: Student of CS, University of Ruse
   from: 2009
   to: 2013
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Studied Computer Science with emphasis on software the last two years. Studied BASIC,
+               Pascal, C++, Java6 & 7, XML, OOP principles, algorithms, Mathlab, Discrete Systems.
 
 - title: Telecommunications Engineering Intern, VIVACOM
   from: May 2009
-  to: June 2009
+  to: July 2009
   description: Got the chance to learn about the main infrastructure used in voice telecommunication
                in the biggest telecommunication company in Bulgaria.
