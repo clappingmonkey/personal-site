@@ -19,16 +19,16 @@
 - title: Git and Github collaboration Course, Udacity Inc.
   from: January 2014
   to: February 2014
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Take a git and github course on Udacity platform for education. Learned the
+               basics and more advanced sides of git and how to use it into projects. Learned
+               how to use github for open-soft contributing and collaboration with others. 
 
 - title: Introduction to Linux Course, Linux Foundation
   from: July 2013
   to: September 2013
-  description: Learned about Linux Foundation...
+  description: Take online course on the site of the Linux Foundation. Learn the basics and
+               fundamentals of Linux OS. More specific the special files system, bash language,
+               using terminal for advanced work and bash scripting for automation and advanced tasks.
 
 - title: Web Development Intern, BTV Media Group
   from: June 2011
@@ -40,8 +40,10 @@
 - title: Student of CS, University of Ruse
   from: 2009
   to: 2013
-  description: Studied Computer Science with emphasis on software the last two years. Studied BASIC,
-               Pascal, C++, Java6 & 7, XML, OOP principles, algorithms, Mathlab, Discrete Systems.
+  description: Studied Computer Science with emphasis on software the last two years. Studied the 
+               following programming languages:BASIC, Pascal, C++, Java6 & 7, XML. And OOP principles, 
+               algorithms, Mathlab, Discrete Systems, Design, cryptographi, entry level AI, MySQL design
+               and language.
 
 - title: Telecommunications Engineering Intern, VIVACOM
   from: May 2009
