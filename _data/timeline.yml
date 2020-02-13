@@ -1,7 +1,16 @@
 - title: System Administrator and Software Support, Freelance
   from: October 2013
   to: Present
-  description: Work on freelance jobs helping different 
+  description: Work on freelance jobs helping different for small and medium-sized clients
+               based in different countries. The majority of clients come from freelance sites 
+               Upwork and Fiverr. Some came from friends and recommendentions from other clients.
+               Setuping servers for web sites or web shops. Migrating servers from shared hosting to 
+               a vps or baremetal client's server. Mainly Ubuntu and CentOS based servers. 
+               Set up or modify Apache or nginx servers. Automate some kind of functions with 
+               bash scripting. Modify parts of sites or add new things. Redesign UI and UX of sites.
+               Migrate db from one server to another or from one platform to another. Install and 
+               Support a set of tools for linux servers, like fail2ban, postfix, UFW, jailkit, 
+               pureFTPd, phpbb, discourse and others.
 
 
 - title: Android Developer, Freelance
