@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi, I am **{{ site.author.name }}** :wave:,<br>
 I'm eager to learn new things and expand my existing skill set. Paying huge attention to detail, always ready to debug and analyze stuff. Passionate about new tech, innovations and all things automated - IoT and home automation.
 
 <div class="row">
