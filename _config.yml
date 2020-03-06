@@ -57,8 +57,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:
-    output: true
+
 
 ### Defaults for collections ###
 defaults:
@@ -67,11 +66,7 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "elements"
-    values:
-      layout: "element"
+
 
 ### Plugins ###
 plugins:
