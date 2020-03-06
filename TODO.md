@@ -1,3 +1,3 @@
-[x] Complete the About page.
-[] Edit the Projects page.
-[] Edit the Articles page and write the 1st blogpost.
+- [x] Complete the About page.
+- [ ] Edit the Projects page.
+- [x] Edit the Articles page and write the 1st blogpost.
