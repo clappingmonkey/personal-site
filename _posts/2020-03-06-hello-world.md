@@ -8,8 +8,6 @@ description: First post with a little info about me and the site.
 
 ## Hello, world.
 
-Hello, world! 
-
 This is my first blog post in my personal site. In this site you can find my resume and bio which includes my skills and experience through the years, my portfolio of different projects that I made or contributed till now, and a blog which obviously you already found. 
 
 A little about me:
