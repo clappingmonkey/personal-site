@@ -86,3 +86,4 @@ exclude:
   - Gemfile
   - portfolyou-jekyll-theme.gemspec
   - "*.log"
+  - drafts/
