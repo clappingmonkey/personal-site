@@ -1,8 +1,8 @@
 ---
 title: Hello, world!
-tags: [Hello world]
+tags: [Hello world, about]
 style: fill
-color: secondary
+color: 
 description: First post with a little info about me and the site.
 ---
 
