@@ -76,6 +76,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jemoji
+  - kramdown-parser-gfm
 
 
 ### Exclude from processing ###
