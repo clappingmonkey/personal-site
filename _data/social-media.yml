@@ -35,6 +35,11 @@ instagram:
   url   : https://www.instagram.com/
   icon  : fab fa-instagram
   color : 405de6
+  
+kaggle:
+  url   : https://www.kaggle.com/
+  icon  : fab fa-kaggle
+  color : 20beff
 
 linkedin:
   url   : https://www.linkedin.com/in/
@@ -61,11 +66,6 @@ stackoverflow:
   icon  : fab fa-stack-overflow
   color : f48024
 
-telegram:
-  url   : https://t.me/
-  icon  : fab fa-telegram
-  color : 0088cc
-
 tumblr:
   url   : https://
   icon  : fab fa-tumblr
@@ -90,3 +90,8 @@ youtube:
   url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
+
+keybase:
+  url   : https://www.keybase.io/
+  icon  : fab fa-keybase
+  color : 66ccff

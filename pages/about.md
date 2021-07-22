@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi, I am **{{ site.author.name }}** :wave:,<br>
-I'm eager to learn new things and expand my existing skill set. I pay attention to details and love to debug and analyse stuff. I'm passionate about new tech, :heart: innovations and all things automated - IoT and home automation.
+Hi I am **{{ site.author.name }}** :wave:,<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
