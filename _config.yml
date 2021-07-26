@@ -1,0 +1,90 @@
+### Site Settings ###
+title               : Ventsislav Kostadinov
+description         : >-                               # >- means to ignore newlines until "url:"
+                      "I turn black tea :tea: into code,
+                      use tabs over spaces
+                      and smash all the bugs :bug:."
+
+url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
+baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+repository          : clappingmonkey/personal-site    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+#remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
+
+
+### Navbar Settings ###
+nav_exclude:                        # Pages with the following paths will be excluded from navbar
+  - 404.html
+  - index.html
+  - blog/tags.html
+  - blog/page-:num/index.html
+
+
+### Author Info ###
+author:
+  name              : Ventsislav Kostadinov
+  image             : "avatar.webp"
+# behance           : your_username
+# dribbble          : your_username
+  email             : contact@v-kostadinov.me
+# facebook          : your_username
+  github            : clappingmonkey
+# gitlab            : your_username
+# instagram         : your_username
+# linkedin          : your_username
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  telegram          : clappingmonkey
+  twitter           : clppngmonkey
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Pagination ###
+paginate: 6
+paginate_path: "/blog/page-:num/"
+
+
+### Posts Permalink ###
+permalink: blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+### Plugins ###
+plugins:
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jemoji
+  - kramdown-parser-gfm
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - Gemfile
+  - portfolyou-jekyll-theme.gemspec
+  - "*.log"
+  - drafts/
