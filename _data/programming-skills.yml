@@ -1,35 +1,47 @@
-- name: GIT
-  percentage: 80
-  color: 
+- name: C
+  percentage: 60
+  color: danger
 
-- name: Linux
-  percentage: 80
-  color: 
-
-- name: HTML5/CSS3
-  percentage: 70
-  color: success
+- name: Python
+  percentage: 40
+  color: warning
 
 - name: java
   percentage: 70
   color: success
 
-- name: XML
-  percentage: 60
-  color: danger
-
-- name: bash
-  percentage: 40
-  color: warning
-
 - name: OOP
   percentage: 40
   color: warning
+
+- name: HTML5/CSS3
+  percentage: 70
+  color: success
 
 - name: MySQL
   percentage: 35
   color: dark
 
-- name: yaml
+- name: bash
+  percentage: 80
+  color:
+
+- name: GIT
+  percentage: 70
+  color: success
+
+- name: Linux
+  percentage: 80
+  color:
+
+- name: Apache
+  percentage: 40
+  color: warning
+
+- name: Nginx
   percentage: 30
+  color: dark
+
+- name: Docker
+  percentage: 20
   color: dark
