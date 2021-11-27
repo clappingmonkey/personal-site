@@ -1,8 +1,8 @@
 # Local Site Directories
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+#_site/
+#.sass-cache/
+#.jekyll-cache/
+#.jekyll-metadata
 
 # Ruby Gems
 .bundle
@@ -11,11 +11,15 @@ Gemfile.lock
 # Log Files
 *.log
 
+# Temp and lock files
+*.lock
+*.tmp
+
 # Docs and information
-additi_info/
+#additi_info/
 
 # Drafts for blog posts and projects
-drafts/
+#drafts/
 
 # Test folder to compare and buil
-test/
+#test/
