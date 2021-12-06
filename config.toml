@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://v-kostadinov.me"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -7,7 +7,7 @@ theme = "LoveIt"
 #themesDir = "../.."
 
 # website title
-title = "LoveIt"
+title = "Ventsislav Kostadinov"
 
 # whether to use robots.txt
 enableRobotsTXT = true
@@ -61,32 +61,16 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
-      [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
         name = "About"
         url = "/about/"
         title = ""
-        weight = 5
-      [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-        weight = 6
+        weight = 4
     [languages.en.params]
       # site description
-      description = "About LoveIt Theme"
+      description = "Ventsislav Kostadinov personal site"
       # site keywords
       keywords = ["Theme", "Hugo"]
       # App icon config
@@ -136,9 +120,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = ""
+          title = "test"
           # subtitle shown in home page
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Personal site off me with some blog posts"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -153,14 +137,14 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         GitHub = "xxxx"
-        Linkedin = ""
+        Linkedin = "XXX"
         Twitter = "xxxx"
         Telegram = "xxxx"
-        Gitlab = ""
-        FreeCodeCamp = ""
-        Bitbucket = ""
-        Stackoverflow = ""
-        Email = "xxxx@xxxx.com"
+        Gitlab = "xxx"
+        FreeCodeCamp = "xxx"
+        Bitbucket = "xxx"
+        Stackoverflow = "xxx"
+        Email = "contact@v-kostadinov.me"
         RSS = true
 
 [params]
@@ -188,7 +172,7 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = "LoveIt"
+      name = "test title"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -208,7 +192,7 @@ enableEmoji = true
     # whether to show the author
     author = true
     # site creation time
-    since = 2019
+    since = 2020
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
